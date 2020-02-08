@@ -44,7 +44,8 @@ ul.main-nav > li > a {
   padding: 20px 30px; 
   position: relative;
   color: #fff;
-  font-size: 16px;
+  font-size: 12px;
+  letter-spacing: 1px;
   font-weight: 400;
   box-sizing: border-box;
 }
@@ -363,6 +364,7 @@ ul.main-nav > li ul.sub-menu-lists > li > a {
 }
 
 .page-footer{
+  margin-top: 80px;
   background-color: #6351ce;
 }
 .page-footer a{
