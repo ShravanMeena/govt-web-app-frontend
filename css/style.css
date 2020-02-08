@@ -13,7 +13,6 @@ header.dark blockquote { color:#fff; }
 blockquote { 
   max-width: 85%; 
   margin:0 auto;
-  font-size: 16px; 
   border-left: 0px;
   padding:  20px ;
 }
@@ -44,8 +43,8 @@ ul.main-nav > li > a {
   padding: 20px 30px; 
   position: relative;
   color: #fff;
-  font-size: 12px;
-  letter-spacing: 1px;
+  font-size: 12px !important;
+  letter-spacing: 1px !important;
   font-weight: 400;
   box-sizing: border-box;
 }
